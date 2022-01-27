@@ -10,23 +10,19 @@ Enables business owners to view and manage the departments, roles and employees 
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
 npm i
 
 ## Usage
-Should run in most browsers.
+npm start
   
 ## License
 This application is covered under the MIT license.
 
 ## Contributing
 Reach out if you're interested in collaborating.
-
-## Tests
-In order to run tests, type npm test to command line.
 
 ## Questions
 Contact me svellucci18@gmail.com

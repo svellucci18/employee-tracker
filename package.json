@@ -2,7 +2,7 @@
   "name": "employee-tracker",
   "description": "[<img src=\"https://img.shields.io/badge/license-MIT-COLOR.svg?logo=LOGO\">](<https://opensource.org/licenses/MIT>)",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
     "mysql2": "^2.3.3"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "npm start"
   }
 }
