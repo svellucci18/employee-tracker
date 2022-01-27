@@ -1,3 +1,9 @@
+# DS ignore plan
+.DS_Store
+
+# node modules ignore plan
+node_modules
+
 # Logs
 logs
 *.log
