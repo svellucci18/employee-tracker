@@ -79,9 +79,6 @@ async function createRole() {
 };
 
 
-
-            
-
-// add an employee
+// add an employee - CREATE
 
 // update an employee
