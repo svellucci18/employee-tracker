@@ -27,3 +27,6 @@ Reach out if you're interested in collaborating.
 ## Questions
 Contact me svellucci18@gmail.com
 or [github](<https://github.com/svellucci18>)
+
+## Video
+[Walk-through video](<https://watch.screencastify.com/v/lT086jTE35AXi8jnA17g>)
